@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PerfectMatchingIndex",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PerfectMatchingIndex::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PerfectMatchingIndex-Debug-8e62fc13fd50d9eb5d31.json",
+					"name" : "PerfectMatchingIndex",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/bednarmartin/DiplomaThesisStuff/DiplomaThesis/RepresentantChecker/algorithm/cmake-build-debug",
+		"source" : "/home/bednarmartin/DiplomaThesisStuff/DiplomaThesis/RepresentantChecker/algorithm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
